@@ -1,0 +1,8 @@
+Laptop set:
+- Email
+- Slack
+- mysql
+- MYSQL Workbench
+- Git
+- VS Code
+- GitHub Account
