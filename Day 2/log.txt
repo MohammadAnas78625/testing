@@ -1,0 +1,13 @@
+- Entered Office at 9:06
+- Reviewed yesterday's work
+- How web works
+- Javascript basics
+- Cross Browser Testing
+- SSR vs. CSR 
+- React.JS vs. Next.JS vs. Gatsby.JS
+- Next.JS Crash Course
+- Database basics
+- Neo4J (NoSQL / Graph Database)
+- AuraDB (Crash Course)
+- Joins hurting the performance - Talk by Mark Zuckerberg
+- Created a simple Todo-List app using Next.JS
